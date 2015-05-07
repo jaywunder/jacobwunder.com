@@ -1,2 +1,1 @@
-# jacobwunder.com
-source for jacobwunder.com using heroku. just an experiment for now, but may be used in the future
+the source code for [dev.jacobwunder.com](dev.jacobwunder.com)

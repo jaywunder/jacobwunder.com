@@ -1,0 +1,7 @@
+{
+  "name": "Jacob Wunder's Website",
+  "description": "my personal website",
+  "repository": "https://github.com/jaywunder/jacobwunder.com",
+  "logo": "",
+  "keywords": ["node", "express", "static"]
+}
